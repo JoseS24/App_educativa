@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">App_educativa</string>
+
+    <string name="Boton_inicio">Empezemos</string>
+    <string name="nombre_app">Aprendamos Jugando</string>
+    <string name="saludo">¡Bienvenidos!</string>
+
+    <string name="primera_vez">Crear nueva cuenta</string>
+    <string name="registrado">Iniciar sesion</string>
+
+    <string name="salir">Salir</string>
+
+    <string name="mensaje1">Selecciona el tipo de usuario que seras</string>
+    <string name="alumno">Estudiante</string>
+    <string name="profe">Maestro</string>
+
+    <string name="sesion_alumno">Realizemos tu registro</string>
+    <string name="nombre_alumno">Nombre</string>
+    <string name="edad_alumno">Edad</string>
+    <string name="escuela_alumno">Institucion</string>
+    <string name="telefono_alumno">No.Telefono</string>
+
+    <string name="nombre">nombre</string>
+    <string name="edad">años</string>
+    <string name="escuela">escuela</string>
+    <string name="telefono">celular</string>
+
+    <string name="boton_registro">Guardar</string>
+
+    <string name="usuario">Crea tu usuario y contraseña</string>
+    <string name="nombre_usuario">Nombre de usuario</string>
+    <string name="contraseña">Contraseña</string>
+
+    <string name="mensaje2">¡¡Felicidades!!</string>
+    <string name="mensaje3">Has completado el registro</string>
+    <string name="mensaje4">¡¡Empezemos!!</string>
+
+    <string name="mensaje5">Ingresa tus datos para iniciar</string>
+    <string name="mensaje6">¿No tienes cuenta?Haz clic para crear una</string>
+    <string name="mensaje7">¿Que tipo de usuario eres?</string>
+    <string name="mensaje8">Olvidaste tu contraseña</string>
+    <string name="mensaje8.1">¡Vamos a recuperarla!</string>
+    <string name="mensaje8.2">Ingresa los datos que registraste</string>
+    <string name="mensaje8.3">Tu contraseña es:</string>
+    <string name="mensaje8.4">Buscar</string>
+
+    <string name="mensaje9">Vamos a entrar</string>
+    <string name="mensaje10">¿Ya tienes cuenta?Haz clic para iniciar sesion</string>
+
+    <string name="olvido">¿Olvidaste tu contraseña?</string>
+    <string name="info">¿Que es aprendamos a jugar?</string>
+    <string name="rfc">Ingrese RFC</string>
+    <string name="referencia">Ingrese los ultimos 5 digitos</string>
+
+    <string name="inicio_nivel">Vamos a escoger el nivel</string>
+    <string name="mensaje11">¡Hoolaa!</string>
+
+    <string name="mensaje12">Basico</string>
+    <string name="mensaje13">Intermedio</string>
+    <string name="mensaje14">Avanzado</string>
+
+    <string name="basico1">Nivel basico</string>
+    <string name="basico2">Actividad 1: Vocales</string>
+    <string name="basico3">Haz clic para oir la letra</string>
+    <string name="basico4">Letra a</string>
+    <string name="basico5">Letra e</string>
+    <string name="basico6">Letra i</string>
+    <string name="basico7">Letra o</string>
+    <string name="basico8">Letra u</string>
+
+    <string name="intermedio">Nivel Intermedio</string>
+    <string name="intermedio1">Actividad 1: Numeros</string>
+    <string name="intermedio2">Actividad 2: Palabras</string>
+    <string name="intermedio3">Continuar</string>
+    <string name="intermedio4">Presiona para escuchar el sonido del numero</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_alumno_registrado.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_basico.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_basico_e.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_basico_i.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_menu_intermedio.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_nivel_avanzado.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_numero1_intermedio.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_numero2_intermedio.xml" value="0.22" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_numero3_intermedio.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_numero4_intermedio.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_numero5_intermedio.xml" value="0.2" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_numero6_intermedio.xml" value="0.3484375" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_numero7_intermedio.xml" value="0.3484375" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_numero8_intermedio.xml" value="0.3484375" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_numero9_intermedio.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_reg_alumno.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Drouaillet/Desktop/App_educativa1-master/app/src/main/res/layout/activity_reg_maestro.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_actividad1_basica_i.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_actividad1_basico.xml" value="0.18" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_actividad_basico_b.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_alumno_registrado.xml" value="0.18" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_basico.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_basico_e.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_basico_i.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_basico_o.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_basico_u.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_crear_cuenta.xml" value="0.2" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_entrada_menu_intermedio.xml" value="0.1526293287729799" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_ini_sesion_alumno.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_iniciar_sesion.xml" value="0.18" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_iniciar_sesion_maestro.xml" value="0.22" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_maestro_registrado.xml" value="0.16" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_main.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_menu_basico.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_menu_intermedio.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_menu_maestros.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_menu_niveles.xml" value="0.2" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_nivel_avanzado.xml" value="0.18" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_numero1_intermedio.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_numero2_intermedio.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_numero3_intermedio.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_recordar_contrasena.xml" value="0.22" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_recordar_contrasena_m.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_reg_alumno.xml" value="0.18" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_reg_maestro.xml" value="0.2" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_tipo_usuario.xml" value="0.22" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_usuario_alumno.xml" value="0.2" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_usuario_maestro.xml" value="0.22" />
+        <entry key="..\:/Users/joshd/AndroidStudioProjects/App_educativa/app/src/main/res/layout/activity_usuario_maestro2.xml" value="0.16032608695652173" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
